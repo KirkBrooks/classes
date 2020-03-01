@@ -4,6 +4,7 @@
 
 # Ignore data file
 DATA/
+datafile/
 
 # Ignore logs & trash
 Logs/
