@@ -3,6 +3,8 @@
 ![code-size](https://img.shields.io/github/languages/code-size/vdelachaux/classes.svg)
 [![license](https://img.shields.io/github/license/vdelachaux/classes)](LICENSE)
 
+# forked from Vincent
+
 Thanks to 4D for providing the [dot notation](https://developer.4d.com/docs/en/Concepts/object.html#object-properties) and the [**Formula**](https://doc.4d.com/4Dv18/4D/18/Formula.301-4505749.en.html) command. This makes it possible to use class programming in 4D to make the code more readable and intuitive.
 
 Here is my thoughts and the results of my experiences around these incredible novelties. 
